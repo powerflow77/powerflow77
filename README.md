@@ -5,13 +5,13 @@ https://powerflow77.github.io/
 
 
 #Tools:   
-![](https://img.shields.io/badge/-python-purple)
-![](https://img.shields.io/badge/-pytorch-orange)  
-![](https://img.shields.io/badge/-matlab-blue)
+![](https://img.shields.io/badge/-Python-purple)
+![](https://img.shields.io/badge/-Pytorch-orange)  
+![](https://img.shields.io/badge/-MATLAB-blue)
 
 
 #Research_Interest:  
-![](https://img.shields.io/badge/-power_system-yellow)  
+![](https://img.shields.io/badge/-Power_System-yellow)  
 ![](https://img.shields.io/badge/-DNN-red)
 ![](https://img.shields.io/badge/-Reinforcement_Learning-green)
 
