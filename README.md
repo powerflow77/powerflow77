@@ -10,6 +10,10 @@ https://powerflow77.github.io/
 
 #Research_Interest:  
 ![](https://img.shields.io/badge/-power_system-yellow)
+![](https://img.shields.io/badge/-DNN-red)
+![](https://img.shields.io/badge/-Reinforcement_Learning-green)
+
+
 
 
 
