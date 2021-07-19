@@ -3,7 +3,11 @@ I am a graduate student studying Power Systems and AI⚡
 This is my CV. 
 https://powerflow77.github.io/
 
-![](https://img.shields.io/badge/-python-blue)
+
+#Tool
+![](https://img.shields.io/badge/-python-purple)
+![](https://img.shields.io/badge/-matlab-blue)
+
 
 
 <!--
