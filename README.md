@@ -1,4 +1,4 @@
-I am a student studying Power Systems and AI
+I am a graduate student studying Power Systems and AI⚡
 
 This is my CV. 
 https://powerflow77.github.io/
