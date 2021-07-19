@@ -3,8 +3,7 @@ I am a graduate student studying Power Systems and AI⚡
 This is my CV. 
 https://powerflow77.github.io/
 
-!(http://img.shields.io/badge/Label(첫번째)-Messege(Python)-Color(blue))
-
+https://img.shields.io/static/v1?label=< >&message=<Python>&color=<blue>
 
 <!--
 **powerflow77/powerflow77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
