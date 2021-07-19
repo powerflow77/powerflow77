@@ -2,6 +2,8 @@ About me⚡
 
 This is my CV.  
 https://powerflow77.github.io/
+Also, this is my private website for studying   
+https://powerflow77.tistory.com/
 
 
 #Tools:   
