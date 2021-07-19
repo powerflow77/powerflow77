@@ -2,6 +2,10 @@ I am a graduate student studying Power Systems and AI⚡
 
 This is my CV. 
 https://powerflow77.github.io/
+
+![Google](http://img.shields.io/badge/-Google-white?style=for-the-badge&logo=google)
+
+
 <!--
 **powerflow77/powerflow77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
