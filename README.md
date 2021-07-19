@@ -4,7 +4,7 @@ This is my CV.
 https://powerflow77.github.io/
 
 
-#Tool:   
+#Tools:   
 ![](https://img.shields.io/badge/-python-purple)
 ![](https://img.shields.io/badge/-matlab-blue)
 
