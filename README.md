@@ -12,7 +12,7 @@ https://powerflow77.github.io/
 
 #Research_Interest:  
 ![](https://img.shields.io/badge/-Power_System-yellow)  
-![](https://img.shields.io/badge/-Power_System_Economics-yellow)  
+![](https://img.shields.io/badge/-Power_System_Economics-brown)  
 ![](https://img.shields.io/badge/-Deep_Learning-red)
 ![](https://img.shields.io/badge/-Reinforcement_Learning-green)
 
