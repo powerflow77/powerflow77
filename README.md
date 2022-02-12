@@ -3,7 +3,7 @@ About me⚡
 This is my CV.  
 https://powerflow77.github.io/  
 
-This is my Youtube Channel. 
+This is my Youtube Channel.  
 https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA
 
 #Tools:   
