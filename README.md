@@ -1,4 +1,4 @@
-⭐⭐~About me~⭐⭐
+⭐⭐About me⭐⭐
 
 This is my CV.  
 https://powerflow77.github.io/  
