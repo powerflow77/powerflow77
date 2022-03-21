@@ -14,7 +14,7 @@ https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA
 
 #Research_Interest:  
 ![](https://img.shields.io/badge/-Power_System-green)
-![](https://img.shields.io/badge/-Power_System_Economics-blue)<br>
+![](https://img.shields.io/badge/-Sector_Coupling-blue)<br>
 ![](https://img.shields.io/badge/-Deep_Learning-navy)
 ![](https://img.shields.io/badge/-Reinforcement_Learning-purple)
 
