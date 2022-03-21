@@ -9,7 +9,7 @@ https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA
 #Tools:   
 ![](https://img.shields.io/badge/-Python-red)
 ![](https://img.shields.io/badge/-Pytorch-orange)
-![](https://img.shields.io/badge/-MATLAB-yellow)
+![](https://img.shields.io/badge/-MATLAB/SIMULINK-yellow)
 
 
 #Research_Interest:  
