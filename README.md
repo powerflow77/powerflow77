@@ -22,9 +22,11 @@
 > > Voltage Stability
 > > Economics
 
+> AI
+> > Deep Learning
+> > Reinforcement Learning
+
 > Smart City
-- Deep Learning
-- Reinforcement Learning
 
 
 
