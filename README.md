@@ -19,12 +19,12 @@
 
 ## Research_interest
 > Power System
-> > Voltage Stability
-> > Economics
+>> Voltage Stability
+>> Economics
 
 > AI
-> > Deep Learning
-> > Reinforcement Learning
+>> Deep Learning
+>> Reinforcement Learning
 
 > Smart City
 
