@@ -5,7 +5,7 @@
 
 <hr class="style1">
 
-#### ![](https://img.shields.io/badge/-Youtube-red)
+#### This is my ![](https://img.shields.io/badge/-Youtube-red) channel
 - https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA
 
 <hr class="style1">
