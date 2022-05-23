@@ -6,8 +6,6 @@
 </p>
 
 
-⭐⭐About me⭐⭐
-
 ## CV
 > https://powerflow77.github.io/
 
@@ -26,7 +24,6 @@
 >> Reinforcement Learning
 
 > Smart City
-
 
 
 
