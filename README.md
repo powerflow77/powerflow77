@@ -1,7 +1,6 @@
 ⭐⭐About me⭐⭐
 
-#### CV
-======
+## CV
 > https://powerflow77.github.io/
 
 <h2>Youtube</h2>
