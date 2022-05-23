@@ -6,12 +6,8 @@
 </p>
 
 
-## CV
-> https://powerflow77.github.io/
-
 ## Youtube
 > https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA
-
 
 
 ## Research_interest
@@ -26,12 +22,11 @@
 > Smart City
 
 
-
-
 <!--
 **powerflow77/powerflow77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 마크다운
+https://powerflow77.github.io/
 
 Here are some ideas to get you started:
 
