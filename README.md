@@ -6,13 +6,11 @@
 #### ![](https://img.shields.io/badge/-Youtube-red)
 - https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA
 
-<hr class="style1">
 
-#### ![](https://img.shields.io/badge/-Tools-yellow)
-- Python, Pytorch
-- Matlab, Simulink
+<h2>Language & Tools</h2>
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+- <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 
-<hr class="style1">
 
 
 #### ![](https://img.shields.io/badge/-Research_interest-green)
@@ -23,8 +21,6 @@
 
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 
 
 <!--
