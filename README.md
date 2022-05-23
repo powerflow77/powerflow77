@@ -19,7 +19,10 @@
 
 ## Research_interest
 > Power System
-- Smart City
+> > Voltage Stability
+> > Economics
+
+> Smart City
 - Deep Learning
 - Reinforcement Learning
 
@@ -30,8 +33,7 @@
 <!--
 **powerflow77/powerflow77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://img.shields.io/badge/-Research_interest-green)
-
+마크다운
 
 Here are some ideas to get you started:
 
