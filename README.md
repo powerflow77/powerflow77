@@ -1,11 +1,14 @@
 ⭐⭐About me⭐⭐
 
 #### This is my CV.
-<hr class="fade">
 - https://powerflow77.github.io/  
 
-#### Youtube Channel.  
+<hr class="style1">
+
+#### ![](https://img.shields.io/badge/-Youtube-red)
 - https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA
+
+<hr class="style1">
 
 #### Tools:   
 ![](https://img.shields.io/badge/-Python-red)
