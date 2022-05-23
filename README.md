@@ -3,7 +3,7 @@
 #### ![](https://img.shields.io/badge/-CV-blue) 
 - https://powerflow77.github.io/  
 
-<hr class="style1">
+<
 
 #### ![](https://img.shields.io/badge/-Youtube-red)
 - https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA
