@@ -1,7 +1,7 @@
 ⭐⭐About me⭐⭐
 
 #### This is my CV.
-<hr class="style15">
+<hr class="fade">
 - https://powerflow77.github.io/  
 
 #### Youtube Channel.  
