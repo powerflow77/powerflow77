@@ -13,7 +13,7 @@
 
 
 <h2>Research_interest</h2>
-- Power System
+* Power System
 - Smart City
 - Deep Learning
 - Reinforcement Learning
