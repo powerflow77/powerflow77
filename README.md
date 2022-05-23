@@ -1,18 +1,18 @@
 ⭐⭐About me⭐⭐
 
-<h3>CV</h3>
+<h2>CV</h2>
 - https://powerflow77.github.io/
 
-<h3>Youtube</h3>
+<h2>Youtube</h2>
 - https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA
 
 
-<h3>Language & Tools</h3>
+<h2>Language & Tools</h2>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white">
 
 
-<h3>Research_interest</h3>
+<h2>Research_interest</h2>
 - Power System
 - Smart City
 - Deep Learning
