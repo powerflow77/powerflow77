@@ -1,26 +1,28 @@
 ⭐⭐About me⭐⭐
 
-#### This is my CV.
+#### ![](https://img.shields.io/badge/-CV-blue) 
 - https://powerflow77.github.io/  
 
 <hr class="style1">
 
-#### This is my ![](https://img.shields.io/badge/-Youtube-red) channel
+#### ![](https://img.shields.io/badge/-Youtube-red)
 - https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA
 
 <hr class="style1">
 
-#### Tools:   
-![](https://img.shields.io/badge/-Python-red)
-![](https://img.shields.io/badge/-Pytorch-orange)
-![](https://img.shields.io/badge/-MATLAB/SIMULINK-yellow)
+#### ![](https://img.shields.io/badge/-Tools-yellow)
+- Python, Pytorch
+- Matlab, Simulink
+
+<hr class="style1">
 
 
-#### Research_Interest:  
-![](https://img.shields.io/badge/-Power_System-green)
-![](https://img.shields.io/badge/-Smart_City-blue)<br>
-![](https://img.shields.io/badge/-Deep_Learning-navy)
-![](https://img.shields.io/badge/-Reinforcement_Learning-purple)
+#### ![](https://img.shields.io/badge/-Research_interest-green)
+- Power System
+- Smart City
+- Deep Learning
+- Reinforcement Learning
+
 
 
 
