@@ -3,11 +3,11 @@
 ## CV
 > https://powerflow77.github.io/
 
-<h2>Youtube</h2>
-- https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA
+## Youtube
+> https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA
 
 
-<h2>Language & Tools</h2>
+## Language & Tools
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
