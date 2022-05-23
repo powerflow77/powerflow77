@@ -16,14 +16,13 @@
 </p>
 
 
-
 ## Research_interest
 > Power System
 >> Voltage Stability<br/>
 >> Economics
 
 > AI
->> Deep Learning
+>> Deep Learning<br/>
 >> Reinforcement Learning
 
 > Smart City
