@@ -1,9 +1,7 @@
 ⭐⭐About me⭐⭐
 
-#### ![](https://img.shields.io/badge/-CV-blue) 
-- https://powerflow77.github.io/  
-
-<h1>dddd</h1>
+<h1>CV</h1>
+- https://powerflow77.github.io/
 
 #### ![](https://img.shields.io/badge/-Youtube-red)
 - https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA
@@ -25,6 +23,7 @@
 
 
 
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 
 
