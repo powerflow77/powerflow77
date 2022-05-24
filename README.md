@@ -12,7 +12,7 @@
 
 ## Research_interest
 > Power System
->> Voltage Stability<br/>
+>> ▫️Voltage Stability<br/>
 >> Economics
 
 > AI
