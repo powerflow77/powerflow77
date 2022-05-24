@@ -20,6 +20,8 @@
 >> Reinforcement Learning
 
 > Smart City
+>> EV and Charging stations
+>> HEMS
 
 
 <!--
