@@ -22,6 +22,7 @@
 > Smart City
 >> EV and Charging stations<br/>
 >> HEMS
+>> Analysis using GIS
 
 
 <!--
