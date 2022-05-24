@@ -13,7 +13,7 @@
 ## Research_interest
 > Power System
 >> ▫️Voltage Stability<br/>
->> ▫️Economics
+>> ▫️P2P Energy Trading
 
 > AI
 >> ▫️Deep Learning<br/>
