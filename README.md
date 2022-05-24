@@ -13,16 +13,16 @@
 ## Research_interest
 > Power System
 >> ▫️Voltage Stability<br/>
->> Economics
+>> ▫️Economics
 
 > AI
->> Deep Learning<br/>
->> Reinforcement Learning
+>> ▫️Deep Learning<br/>
+>> ▫️Reinforcement Learning
 
 > Smart City
->> EV and Charging stations<br/>
->> HEMS<br/>
->> Analysis using GIS
+>> ▫️EV and Charging stations<br/>
+>> ▫️HEMS<br/>
+>> ▫️Analysis using GIS
 
 
 <!--
