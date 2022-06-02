@@ -14,6 +14,7 @@
 > Power System
 >> ▫️Voltage Stability<br/>
 >> ▫️P2P Energy Trading
+>> ▫️Power Network(Graph) Analysis
 
 > AI
 >> ▫️Deep Learning<br/>
