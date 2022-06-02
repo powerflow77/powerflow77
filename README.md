@@ -13,7 +13,7 @@
 ## ⭐Research_interest
 > Power System
 >> ▫️Voltage Stability<br/>
->> ▫️P2P Energy Trading
+>> ▫️P2P Energy Trading<br/>
 >> ▫️Power Network(Graph) Analysis
 
 > AI
