@@ -22,7 +22,7 @@
 >> ▫️Model-Free RL, MARL, Hierarchical RL
 
 > Sector Coupling
->> ▫️Electric Power Systems with Hydrogen, Gas, Heat Network<br/>
+>> ▫️Electric Power Systems considering Hydrogen, Gas, Heat Network(or Facilities)<br/>
 >> ▫️Optimal Energy Flow(OEF)
 
 
