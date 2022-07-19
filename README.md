@@ -14,14 +14,16 @@
 > Power System
 >> ▫️Voltage Stability<br/>
 >> ▫️Optimal Power Flow(OPF)<br/>
->> ▫️Power System Control
+>> ▫️Power System Control<br/>
+>> ▫️Analysis using Simulink
 
 > AI
 >> ▫️LSTM, GNN<br/>
 >> ▫️Model-Free DRL, MARL, Hierarchical RL
 
 > Sector Coupling
->> ▫️Electric Power System with Hydrogen, Gas, Heat Network<br/>
+>> ▫️Electric Power Systems with Hydrogen, Gas, Heat Network<br/>
+>> ▫️Optimal Energy Flow(OEF)
 
 
 <!--
