@@ -18,7 +18,7 @@
 >> ▫️Analysis using Simulink
 
 > AI
->> ▫️LSTM, GNN<br/>
+>> ▫️LSTM, PINN, GNN<br/>
 >> ▫️Model-Free RL, MARL, Hierarchical RL
 
 > Sector Coupling
