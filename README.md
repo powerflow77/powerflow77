@@ -13,17 +13,15 @@
 ## ⭐Research_interest
 > Power System
 >> ▫️Voltage Stability<br/>
->> ▫️P2P Energy Trading<br/>
->> ▫️Power (Graph) Analysis
+>> ▫️Optimal Power Flow(OPF)<br/>
+>> ▫️Power System Control
 
 > AI
->> ▫️Deep Learning<br/>
->> ▫️Reinforcement Learning
+>> ▫️LSTM, GNN<br/>
+>> ▫️basic-DRL, MARL, Hierarchical RL
 
-> Smart City
->> ▫️EV and Charging stations<br/>
->> ▫️HEMS<br/>
->> ▫️Analysis using GIS
+> Sector Coupling
+>> ▫️Electric Power System with Hydrogen, Gas, Heat Network<br/>
 
 
 <!--
