@@ -18,7 +18,7 @@
 
 > AI
 >> ▫️LSTM, GNN<br/>
->> ▫️basic-DRL, MARL, Hierarchical RL
+>> ▫️Model-Free DRL, MARL, Hierarchical RL
 
 > Sector Coupling
 >> ▫️Electric Power System with Hydrogen, Gas, Heat Network<br/>
