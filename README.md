@@ -13,6 +13,7 @@
 ## ⭐Research_interest
 > Power System
 >> ▫️Cascading Outages<br/>
+>> ▫️Volt Var Optimization<br/>
 >> ▫️Optimal Power Flow(OPF)<br/>
 >> ▫️Power System Control<br/>
 >> ▫️Analysis using Simulink
