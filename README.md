@@ -11,7 +11,7 @@
 
 
 ## ⭐Research_interest
-> Power System
+> Power Systems
 >> ▫️Cascading Outages<br/>
 >> ▫️Volt Var Optimization<br/>
 >> ▫️Optimal Power Flow(OPF)<br/>
