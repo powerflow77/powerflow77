@@ -12,7 +12,7 @@
 
 ## ⭐Research_interest
 > Power System
->> ▫️Voltage Stability<br/>
+>> ▫️Cascading Outages<br/>
 >> ▫️Optimal Power Flow(OPF)<br/>
 >> ▫️Power System Control<br/>
 >> ▫️Analysis using Simulink
