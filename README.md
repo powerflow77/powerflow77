@@ -18,7 +18,7 @@
 >> ▫️Analysis using Simulink
 
 > AI
->> ▫️Time Series Analysis, PINN, GNN<br/>
+>> ▫️Time Series Problem Analysis, PINN, GNN<br/>
 >> ▫️Model-Free RL, MARL, Hierarchical RL
 
 > Sector Coupling
