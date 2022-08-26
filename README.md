@@ -12,7 +12,7 @@
 
 ## ⭐Research_interest
 > Power Systems
->> ▫️Volt Var Optimization<br/>
+>> ▫️Volt Var Control<br/>
 >> ▫️Optimal Power Flow(OPF)<br/>
 >> ▫️Power System Control<br/>
 >> ▫️Analysis using Simulink
