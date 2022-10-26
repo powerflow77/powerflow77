@@ -12,18 +12,18 @@
 
 ## ⭐Research_interest
 > Power Systems
->> ▫️Volt Var Control<br/>
+>> ▫️Unit Commitment Control<br/>
 >> ▫️Optimal Power Flow(OPF)<br/>
->> ▫️Power System Control<br/>
 >> ▫️Analysis using Simulink
 
 > AI
 >> ▫️Time Series Problem Analysis, PINN, GNN<br/>
->> ▫️Model-Free RL, MARL, Hierarchical RL
+>> ▫️RL + Combinatorial Optimization
 
-> Sector Coupling
->> ▫️Electric Power Systems considering Hydrogen, Gas and Heat Networks(or Facilities)<br/>
->> ▫️Optimal Energy Flow(OEF) 
+> Optimization
+>> ▫️MILP, MINLP
+>> ▫️Combinatorial Optimization using RL
+>> ▫️Solving Optimization Problem using DL
 
 
 <!--
