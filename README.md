@@ -21,8 +21,8 @@
 >> ▫️RL + Combinatorial Optimization
 
 > Optimization
->> ▫️MILP, MINLP
->> ▫️Combinatorial Optimization using RL
+>> ▫️MILP, MINLP<br/>
+>> ▫️Combinatorial Optimization using RL<br/>
 >> ▫️Solving Optimization Problem using DL
 
 
