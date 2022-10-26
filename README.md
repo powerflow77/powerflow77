@@ -17,8 +17,8 @@
 >> ▫️Analysis using Simulink
 
 > AI
->> ▫️Time Series Problem Analysis, PINN, GNN<br/>
->> ▫️RL + Combinatorial Optimization
+>> ▫️Time Series Problem, PINN, GNN<br/>
+>> ▫️RL
 
 > Optimization
 >> ▫️MILP, MINLP<br/>
