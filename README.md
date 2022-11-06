@@ -17,8 +17,8 @@
 >> ▫️Analysis using Simulink
 
 > AI
->> ▫️Designing new DL Algorithms
->> ▫️Time Series Problem, PINN, GNN<br/>
+>> ▫️Designing new DL Algorithms<br/>
+>> ▫️Time Series Problem, Graph Neural Network<br/>
 >> ▫️RL
 
 > Optimization
