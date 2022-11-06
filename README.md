@@ -17,6 +17,7 @@
 >> ▫️Analysis using Simulink
 
 > AI
+>> ▫️Designing new DL Algorithms
 >> ▫️Time Series Problem, PINN, GNN<br/>
 >> ▫️RL
 
