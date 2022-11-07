@@ -14,7 +14,7 @@
 > Power Systems
 >> ▫️Unit Commitment<br/>
 >> ▫️Optimal Power Flow(OPF)<br/>
->> ▫️Analysis using Simulink
+>> ▫️Volt/VAR Optimization
 
 > AI
 >> ▫️Designing new DL Algorithms<br/>
