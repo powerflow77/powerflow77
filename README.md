@@ -24,7 +24,7 @@
 > Optimization
 >> ▫️MILP, MINLP<br/>
 >> ▫️Combinatorial Optimization using RL<br/>
->> ▫️Solving Optimization Problem using DL
+>> ▫️Solving Optimization Problems using DL
 
 
 <!--
