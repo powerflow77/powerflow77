@@ -12,7 +12,7 @@
 
 ## ⭐Research_interest
 > Power Systems
->> ▫️Unit Commitment Control<br/>
+>> ▫️Unit Commitment<br/>
 >> ▫️Optimal Power Flow(OPF)<br/>
 >> ▫️Analysis using Simulink
 
