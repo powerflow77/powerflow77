@@ -19,7 +19,7 @@
 > AI
 >> ▫️Designing new DL Algorithms<br/>
 >> ▫️Time Series Problem, Graph Neural Network<br/>
->> ▫️R
+>> ▫️Reinforcement Learning
 
 > Optimization
 >> ▫️MILP, MINLP<br/>
