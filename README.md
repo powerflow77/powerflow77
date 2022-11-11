@@ -14,7 +14,8 @@
 > Power Systems
 >> ▫️Unit Commitment<br/>
 >> ▫️Optimal Power Flow(OPF)<br/>
->> ▫️Volt/VAR Optimization
+>> ▫️Volt/VAR Optimization<br/>
+>> ▫️Curtailment Problem
 
 > AI
 >> ▫️Designing new DL Algorithms<br/>
