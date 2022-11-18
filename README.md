@@ -12,7 +12,7 @@
 
 ## ⭐Research_interest
 > Power Systems
->> ▫️Unit Commitment<br/>
+>> ▫️Sector Coupling<br/>
 >> ▫️Optimal Power Flow(OPF)<br/>
 >> ▫️Volt/VAR Optimization<br/>
 >> ▫️Curtailment Problem
