@@ -22,9 +22,9 @@
 >> ▫️Curtailment Problem
 
 > AI
+>> ▫️SARL, MARL, Hierarchical RL, etc.
 >> ▫️Designing new DL Algorithms<br/>
->> ▫️Time Series Problem, Graph Neural Network<br/>
->> ▫️Reinforcement Learning
+>> ▫️Time Series Problem, GNN<br/>
 
 > Optimization
 >> ▫️MILP, MINLP<br/>
