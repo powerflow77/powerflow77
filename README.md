@@ -14,7 +14,7 @@
 
 
 ## ⭐Youtube
-> <a href="https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA">youtube</a> <br/>
+> <a href="https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA">Youtube</a> <br/>
 
 
 ## ⭐Research_interest
