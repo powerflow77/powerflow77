@@ -17,7 +17,7 @@
 > <a href="https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA">YouTube</a> <br/>
 
 
-## ⭐Research_interest
+## ⭐Research_Interest
 > Power Systems
 >> ▫️Sector Coupling<br/>
 >> ▫️Optimal Power Flow(OPF)<br/>
