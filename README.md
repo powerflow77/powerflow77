@@ -5,14 +5,16 @@
 <img src="https://img.shields.io/badge/Matlab-blue?style=flat=Pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Simulink-orange?style=flat=Pytorch&logoColor=white"/>
 </p>
+
+
+
 -->
 
 
 
 
 ## ⭐Youtube
-> https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA<br/>
-> <a href="https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA">youtube</a>
+> <a href="https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA">youtube</a> <br/>
 
 
 ## ⭐Research_interest
@@ -39,6 +41,10 @@
 
 <!--
 **powerflow77/powerflow77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+유튜브
+> https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA<br/>
 
 마크다운
 https://powerflow77.github.io/
