@@ -22,18 +22,18 @@
 
 
 ## ⭐Research Interest
-> Power Systems
+> **Power Systems**
 >> ▫️Sector Coupling<br/>
 >> ▫️Optimal Power Flow(OPF)<br/>
 >> ▫️Volt/VAR Optimization<br/>
 >> ▫️Curtailment Problem
 
-> AI
+> **AI**
 >> ▫️SARL, MARL, Hierarchical RL, etc.<br/>
 >> ▫️Designing new DL Algorithms<br/>
 >> ▫️Graph Neural Network<br/>
 
-> Optimization
+> **Optimization**
 >> ▫️MILP, MINLP<br/>
 >> ▫️Combinatorial Optimization<br/>
 >> ▫️Solving Optimization Problems using DL
