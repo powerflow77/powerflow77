@@ -16,6 +16,10 @@
 ## ⭐YouTube
 > <a href="https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA">YouTube</a> <br/>
 
+## ⭐Publications
+> [1] **M.Son**, M.Kim, H.Kim, "Sector Coupling for the Transition towards Carbon-Neutral Power Systems"(to be submitted in Jan. 2023), <I>Energies<I/>
+
+
 
 ## ⭐Research Interest
 > Power Systems
@@ -33,10 +37,6 @@
 >> ▫️MILP, MINLP<br/>
 >> ▫️Combinatorial Optimization<br/>
 >> ▫️Solving Optimization Problems using DL
-
-## ⭐Publications
-> [1] **M.Son**, M.Kim, H.Kim, "Sector Coupling for the Transition towards Carbon-Neutral Power Systems"(to be submitted in Jan. 2023), <I>Energies<I/>
-
 
 
 <!--
