@@ -9,7 +9,7 @@
 
 
 -->
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white&link=https://github.com/powerflow77"/>
+<a href="[https://github.com/powerflow77]" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/></a>
 
 
 
