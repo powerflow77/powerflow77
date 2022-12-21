@@ -9,6 +9,7 @@
 
 
 -->
+<!-- 아래는.... 뱃지에 링크 거는 방법 -->
 <a href="https://github.com/powerflow77"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/></a>
 
 
