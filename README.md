@@ -9,7 +9,7 @@
 
 
 -->
-<img src="https://img.shields.io/badge/GitHub-#181717?style=flat=Pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-#181717?style=flat=GitHub&logoColor=white"/>
 
 
 
