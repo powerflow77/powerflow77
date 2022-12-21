@@ -35,7 +35,7 @@
 >> ▫️Solving Optimization Problems using DL
 
 ## ⭐Publications
-> ...
+> [1] <b>M.Son<b/>, M.Kim, H.Kim, Sector Coupling for the Transition towards Carbon-Neutral Power Systems, Energies
 
 
 
