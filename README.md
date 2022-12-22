@@ -22,7 +22,7 @@
 
 ## ⭐Research Interest
 > **Power Systems**
->> ▫️Sector Coupling<br/>
+>> -Sector Coupling<br/>
 >> ▫️Optimal Power Flow(OPF)<br/>
 >> ▫️Volt/VAR Optimization<br/>
 >> ▫️Curtailment Problem
