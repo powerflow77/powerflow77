@@ -30,7 +30,7 @@
 > **AI**
 >> ▫ SARL, MARL, Hierarchical RL, etc.<br/>
 >> ▫ Designing new DL Algorithms<br/>
->> ▫ Graph Neural Network<br/>
+>> ▫ Time Series Problems<br/>
 
 > **Optimization**
 >> ▫ MILP, MINLP<br/>
