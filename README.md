@@ -23,9 +23,9 @@
 ## ⭐Research Interest
 > **Power Systems**
 >> ▫ Sector Coupling<br/>
->> - Optimal Power Flow(OPF)<br/>
->> - Volt/VAR Optimization<br/>
->> - Curtailment Problem
+>> ▫ Optimal Power Flow(OPF)<br/>
+>> ▫ Volt/VAR Optimization<br/>
+>> ▫ Curtailment Problem
 
 > **AI**
 >> - SARL, MARL, Hierarchical RL, etc.<br/>
