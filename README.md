@@ -25,7 +25,7 @@
 >> ▫ Sector Coupling<br/>
 >> ▫ Optimal Power Flow(OPF)<br/>
 >> ▫ Volt/VAR Optimization<br/>
->> ▫ Curtailment Problem
+>> ▫ Power System Economics<br/>
 
 > **AI**
 >> ▫ SARL, MARL, Hierarchical RL, etc.<br/>
@@ -35,7 +35,7 @@
 > **Optimization**
 >> ▫ MILP, MINLP<br/>
 >> ▫ Combinatorial Optimization<br/>
->> ▫ Solving Optimization Problems using DL
+>> ▫ Solving Optimization Problems using DL<br/>
 <!---->
 
 <!-- 아래는.... 뱃지에 링크 거는 방법 -->
