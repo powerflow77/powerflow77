@@ -34,8 +34,8 @@
 
 > **Optimization**
 >> ▫ MILP, MINLP<br/>
+>> ▫ Game Theory<br/>
 >> ▫ Combinatorial Optimization<br/>
->> ▫ Game Theory\\
 >> ▫ Solving Optimization Problems using DL<br/>
 <!---->
 
