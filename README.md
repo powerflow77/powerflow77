@@ -24,7 +24,7 @@
 > **Power Systems**
 >> ▫ Sector Coupling<br/>
 >> ▫ Optimal Power Flow(OPF)<br/>
->> ▫ Volt/VAR Optimization<br/>
+>> ▫ P2P Energy Trading<br/>
 >> ▫ Power System Economics<br/>
 
 > **AI**
@@ -35,6 +35,7 @@
 > **Optimization**
 >> ▫ MILP, MINLP<br/>
 >> ▫ Combinatorial Optimization<br/>
+>> ▫ Game Theory
 >> ▫ Solving Optimization Problems using DL<br/>
 <!---->
 
