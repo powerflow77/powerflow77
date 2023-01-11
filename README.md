@@ -16,7 +16,7 @@
 > <a href="https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA">YouTube</a> <br/>
 
 ## ⭐Publications
-> [1] **M.Son**, M.Kim, H.Kim, "Sector Coupling and Migration towards Carbon-Neutral Power Systems"(in review), _Energies_
+> [1] **M.Son**, M.Kim, H.Kim, "Sector Coupling and Migration towards Carbon-Neutral Power Systems"(under review), _Energies_
 
 
 
