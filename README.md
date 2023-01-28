@@ -28,9 +28,10 @@
 >> ▫ Power System Economics<br/>
 
 > **AI**
->> ▫ SARL, MARL, Hierarchical RL, etc.<br/>
+>> ▫ SARL, MARL<br/>
 >> ▫ Designing new DL Algorithms<br/>
 >> ▫ Time Series Problems<br/>
+>> ▫ XAI<br/>
 
 > **Optimization**
 >> ▫ MILP, MINLP<br/>
