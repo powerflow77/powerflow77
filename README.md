@@ -13,8 +13,8 @@
 
 
 ## ⭐Website
-> <a href="https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA">YouTube</a> <br/>
-> <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7AWiuMcevwXdjDOODg0EdO3qjbXF7Wf3zmqGgBS54fQW56HKVBwDrBqJ5VAk8ynniS-diTzwIERmvZXssVTwDN8SvVXg&user=NZdDW_8AAAAJ">Google_Scholar</a> <br/>
+> ▫ <a href="https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA">YouTube</a> <br/>
+> ▫ <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7AWiuMcevwXdjDOODg0EdO3qjbXF7Wf3zmqGgBS54fQW56HKVBwDrBqJ5VAk8ynniS-diTzwIERmvZXssVTwDN8SvVXg&user=NZdDW_8AAAAJ">Google_Scholar</a> <br/>
 
 ## ⭐Publications
 > [1] **M.Son**, M.Kim, H.Kim, "Sector Coupling and Migration towards Carbon-Neutral Power Systems", _Energies_, 2023.
