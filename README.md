@@ -40,7 +40,6 @@
 >> ▫ XAI<br/>
 
 > **Optimization**
->> ▫ MILP, MINLP<br/>
 >> ▫ Game Theory<br/>
 >> ▫ Combinatorial Optimization<br/>
 >> ▫ Solving Optimization Problems using DL or RL<br/>
