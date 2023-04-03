@@ -28,6 +28,11 @@
 >> ▫ P2P Energy Trading<br/>
 >> ▫ Power System Economics<br/>
 
+> **Industry**
+>> ▫ Residential ESS<br/>
+>> ▫ Smart Home
+
+
 > **AI**
 >> ▫ SARL, MARL<br/>
 >> ▫ Designing new DL Algorithms<br/>
@@ -38,7 +43,7 @@
 >> ▫ MILP, MINLP<br/>
 >> ▫ Game Theory<br/>
 >> ▫ Combinatorial Optimization<br/>
->> ▫ Solving Optimization Problems using DL<br/>
+>> ▫ Solving Optimization Problems using DL or RL<br/>
 <!---->
 
 
