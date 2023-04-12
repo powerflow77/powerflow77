@@ -26,7 +26,7 @@
 >> ▫ Sector Coupling<br/>
 >> ▫ Optimal Power Flow(OPF)<br/>
 >> ▫ P2P Energy Trading<br/>
->> ▫ Power System Economics<br/>
+>> ▫ Volt Var Control<br/>
 
 > **Industry**
 >> ▫ Residential ESS<br/>
