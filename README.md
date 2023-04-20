@@ -24,18 +24,17 @@
 ## ⭐Research Interest
 > **Power Systems**
 >> ▫ Sector Coupling<br/>
->> ▫ Optimal Power Flow(OPF)<br/>
+>> ▫ Optimal Power Flow<br/>
 >> ▫ P2P Energy Trading<br/>
 >> ▫ Volt Var Control<br/>
 
 > **Industry**
->> ▫ Residential ESS<br/>
+>> ▫ Home ESS<br/>
 >> ▫ Smart Home
 
 
 > **AI**
->> ▫ SARL, MARL<br/>
->> ▫ Designing new DL Algorithms<br/>
+>> ▫ Reinforcement Learning<br/>
 >> ▫ Time Series Problems<br/>
 >> ▫ XAI<br/>
 
