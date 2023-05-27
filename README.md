@@ -26,22 +26,20 @@
 >> ▫ Sector Coupling<br/>
 >> ▫ Optimal Power Flow<br/>
 >> ▫ P2P Energy Trading<br/>
->> ▫ Volt Var Control<br/>
 
 > **Industry**
 >> ▫ Home ESS<br/>
->> ▫ Smart Home
+>> ▫ Smart Home<br/>
 
 
 > **AI**
 >> ▫ Reinforcement Learning<br/>
 >> ▫ Time Series Problems<br/>
->> ▫ XAI<br/>
 
 > **Optimization**
->> ▫ Game Theory<br/>
->> ▫ Combinatorial Optimization<br/>
->> ▫ Solving Optimization Problems using DL or RL<br/>
+>> ▫ Stochastic Optimization<br/>
+>> ▫ Model Predictive Control<br/>
+>> ▫ Combining Optimization & AI<br/>
 <!---->
 
 
