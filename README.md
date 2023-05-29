@@ -24,7 +24,7 @@
 ## ⭐Research Interest
 > **Power Systems**
 >> ▫ Sector Coupling<br/>
->> ▫ Optimal Power Flow(OPF)<br/>
+>> ▫ Optimal Power Flow<br/>
 >> ▫ Volt/VAR Control<br/>
 
 > **Industry**
@@ -33,12 +33,12 @@
 
 
 > **AI**
->> ▫ Reinforcement Learning(RL)<br/>
->> ▫ Time Series Problems(DL)<br/>
+>> ▫ Reinforcement Learning<br/>
+>> ▫ Time Series Problems<br/>
 
 > **Optimization**
 >> ▫ Stochastic Optimization<br/>
->> ▫ Model Predictive Control(MPC)<br/>
+>> ▫ Model Predictive Control<br/>
 >> ▫ Combining Optimization & AI<br/>
 <!---->
 
