@@ -21,8 +21,8 @@
 
 ## ⭐Skills
 > **Python**
->> ▫ Pytorch
->> ▫ Gurobi, Pyomo, CVXPY
+>> ▫ Pytorch<br/>
+>> ▫ CVXPY, Pyomo, Gurobipy
 
 > **MATLAB**
 
