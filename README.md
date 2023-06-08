@@ -25,6 +25,7 @@
 >> ▫ CVXPY, Pyomo, Gurobipy
 
 > **MATLAB**
+>> ▫ Optimization
 
 
 ## ⭐Research Interest
@@ -36,14 +37,12 @@
 >> ▫ Home ESS<br/>
 >> ▫ Smart Home<br/>
 
-
-> **AI**
+> **AI & Optimization**
 >> ▫ Reinforcement Learning<br/>
->> ▫ Time Series Problems<br/>
-
-> **Optimization**
+>> ▫ Deep Learning(especially Time Series Problem)<br/>
 >> ▫ Stochastic Optimization<br/>
->> ▫ Combining Optimization & AI<br/>
+>> ▫ End-to-End Learning<br/>
+>> ▫ Combining Optimization and Deep Learning<br/>
 <!---->
 
 
