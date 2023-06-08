@@ -19,14 +19,6 @@
 ## ⭐Publications
 > ▫ [1] **M.Son**, M.Kim, H.Kim, "Sector Coupling and Migration towards Carbon-Neutral Power Systems", _Energies_, 2023.
 
-## ⭐Skills
-> **Python**
->> ▫ Pytorch<br/>
->> ▫ CVXPY, Pyomo, Gurobipy
-
-> **MATLAB**
->> ▫ Optimization
-
 
 ## ⭐Research Interest
 > **Power Systems**
