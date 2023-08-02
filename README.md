@@ -10,7 +10,7 @@
 
 -->
 <!-- 스페이스 바 두 번 치면 한 줄 통째로 공백 생성 -->
-Hi
+I simply made the code just 'work'. Hyperparameter tuning is your job.
 <!--
 ## ⭐Website
 > ▫ <a href="https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA">YouTube</a> <br/>
