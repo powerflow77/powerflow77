@@ -11,7 +11,7 @@
 -->
 <!-- 스페이스 바 두 번 치면 한 줄 통째로 공백 생성 -->
 
-
+<!--
 ## ⭐Website
 > ▫ <a href="https://www.youtube.com/channel/UC2wGcGfyIlqW2N8MZVKd6SA">YouTube</a> <br/>
 > ▫ <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7AWiuMcevwXdjDOODg0EdO3qjbXF7Wf3zmqGgBS54fQW56HKVBwDrBqJ5VAk8ynniS-diTzwIERmvZXssVTwDN8SvVXg&user=NZdDW_8AAAAJ">Google_Scholar</a> <br/>
@@ -35,6 +35,8 @@
 >> ▫ Stochastic Optimization<br/>
 >> ▫ End-to-End Learning<br/>
 >> ▫ Combining Optimization and Deep Learning<br/>
+
+-->
 <!---->
 
 
